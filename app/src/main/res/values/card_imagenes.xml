@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cardImagenes">
+        <item>https://quelibroleo.com/images/libros/libro-1540892576.jpg</item>
+        <item>https://quelibroleo.com/images/libros/libro_1355762945.png</item>
+        <item>https://quelibroleo.com/images/libros/libro-1615989761.jpeg</item>
+        <item>https://quelibroleo.com/images/libros/9788491055273.jpg</item>
+        <item>https://quelibroleo.com/images/libros/libro_1362195373.jpg</item>
+        <item>https://quelibroleo.com/images/libros/libro-1494338783.jpg</item>
+        <item>https://quelibroleo.com/images/libros/libro_1362444377.jpg</item>
+        <item>https://quelibroleo.com/images/libros/libro-1520499004.jpg</item>
+    </string-array>
+</resources>

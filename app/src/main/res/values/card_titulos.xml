@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <string-array name="cardTitulos">
+       <item>1984</item>
+       <item>El Gran Gatsby</item>
+       <item>La Divina Comedia</item>
+       <item>Mujercitas</item>
+       <item>Los miserables</item>
+       <item>Cien años de soledad</item>
+       <item>El retrato de Dorian Gray</item>
+       <item>Cumbres Borroscosas</item>
+   </string-array>
+</resources>

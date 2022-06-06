@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Mis Lecturas</string>
+    <string name="sugerencias">Lecturas Recomendadas</string>
+    <string name="titulo">Título libro</string>
+    <string name="autor">Autor</string>
+    <string name="tipo">Tipo</string>
+    <string name="paginas">Total páginas</string>
+    <string name="paginas_leidas">Páginas leídas</string>
+    <string name="leyendo">Leyendo</string>
+    <string name="leido">Leído</string>
+    <string name="agregar">Agregar</string>
+    <string name="agregar_leido">AGREGAR A LEÍDO</string>
+    <string name="agregar_leyendo">AGREGAR A LEYENDO</string>
+    <string name="imagen">URL de la imagen</string>
+    <string name="progreso">Progreso:</string>
+    <string name="titulo_libro">Título: %1$s</string>
+    <string name="autor_libro">Autor: %1$s</string>
+    <string name="tipo_libro">Tipo: %1$s</string>
+    <string name="paginas_libro">Número de páginas: %1$s</string>
+
+</resources>
